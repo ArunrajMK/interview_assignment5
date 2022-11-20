@@ -1,0 +1,16 @@
+{
+  "cridentials": [
+    {
+      "id": 1,
+      "name": "Arun",
+      "email": "arun@gmail.com",
+      "password": "mkmkmk9090"
+    },
+    {
+      "name": "Mk",
+      "email": "mk@gmail.com",
+      "password": "123",
+      "id": 2
+    }
+  ]
+}
